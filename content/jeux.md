@@ -43,6 +43,15 @@ L'histoire, ouverte à l'interprétation et abordant des thèmes psychologiques,
 - [Dossier](http://www.rpg-maker.fr/index.php?page=tests&id=41) de Shadow Gate
 - [Page Wikipédia](https://en.wikipedia.org/wiki/Off_(video_game)) anglaise du jeu
 
+## Projets francophones en cours
+### Aëdemphia
+
+Un mix J-RPG/RPG occidental réalisé par Sylvanor.
+[Site Officiel d'Aëdemphia](http://www.aedemphia-rpg.net/)
+
+### Kujira no Hara
+Un Zelda-like réalisé par Roi Of The Suisse.
+http://www.rpg-maker.fr/jeux-602-kujira-no-hara.html
 ## Projets francophones abandonnés
 
 ### Cercle d'Ombre
@@ -61,6 +70,10 @@ On ne sait que peu de choses sur le projet en raison de la grande discrétion de
 - [Topic du projet](https://web.archive.org/web/20080613001635/http://www.rpg-maker.fr:80/index.php?page=forum&id=467) sur Oniromancie
 - [Compte Dailymotion](https://www.dailymotion.com/LunnO/videos) de Lünn
 - [Fichiers recueillis](https://drive.google.com/open?id=1q06vhXK7v2UX0slGUXV1SkXDdrA6S4WI) par RPG Maker Alliance
+
+## Dark Soul
+Un classique qui a marqué l'histoire du making francophone.
+http://www.rpg-maker.fr/jeux-172-dark-soul.html
 
 ## Communautés étrangères
 
